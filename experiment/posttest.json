@@ -2,35 +2,86 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The unconfined compression test is derived from ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Direct shear test",
+        "b": "Vane shear test",
+        "c": "Triaxial compression tests",
+        "d": "Drained test"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Select the incorrect statement",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "In a direct shear box test , the plane of shear failure is predetermined",
+        "b": "Better control is achieved on the drainage of soil in a triaxial compression test.",
+        "c": "Stress distribution on the failure plane in case of triaxial compression is uniform.",
+        "d": "Unconfined compression tests can be carried out for all types of soil."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If a cohesive soil is subjected to vertical compressive load, the inclination of crack to the horizontal is",
+      "answers": {
+        "a": "90o",
+        "b": "45o",
+        "c": "63o",
+        "d": "38o"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In plastic failure, load corresponding to ______strain is arbitrarily taken as failure load.",
+      "answers": {
+        "a": "50%",
+        "b": "20%",
+        "c": "30%",
+        "d": "60%"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following parameter is used to represent the unconfined compressive strength at failure",
+      "answers": {
+        "a": "τf",
+        "b": "cu",
+        "c": "qu",
+        "d": "Au"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
