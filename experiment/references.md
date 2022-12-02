@@ -1,1 +1,4 @@
-### Link your references in here
+- Terzaghi Karl, and Ralph Peck, Soil Mechanics in Engineering Practice, John Wiley and Sons, New York, 1948. Reference.
+- C. Venkatramaiah, ‘Geotechnical Engineering’, New age publication, 2006.
+- Gopal Ranjan & Rao A.S.R, ‘Basic and Applied Soil Mechanics’, New Age International (P) Ltd., New Delhi.
+- S K Garg, ‘Soil Mechanics and Foundation Engineering,’ Khanna Publishers, New Delhi.

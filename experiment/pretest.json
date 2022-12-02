@@ -2,37 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which is the shear strength parameter which deals with the friction and interlocking behavior of the soil.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Cohesion",
+        "b": "Shear stress",
+        "c": "Strain ",
+        "d": "Angle of Internal friction"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In which type of soil the strength is purely due to cohesion and angle of internal  friction will be zero.",
+      "answers": {
+        "a": "Cohesive soil",
+        "b": "Cohesionless soil",
+        "c": "Fine grained soil",
+        "d": "Coarse grained soil"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Unconfined compression test is conducted to determine",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Shear strength of soil",
+        "b": "compressive strength of soil",
+        "c": "Compressibility of soil",
+        "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The unconfined compression test is generally applicable to",
+      "answers": {
+        "a": "Unsaturated clay",
+        "b": "Saturated clay",
+        "c": "Fine grained soil",
+        "d": "Coarse grained soil"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which type of soil completely depends on intermolecular friction between soil  and cohesive force is zero.",
+      "answers": {
+        "a": "Cohesive soil",
+        "b": "Non cohesive soil",
+        "c": "Fine grained soil",
+        "d": "Coarse grained soil"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
