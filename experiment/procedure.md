@@ -2,41 +2,42 @@
 
 These procedure steps are followed on the simulator.
 
+<div style="text-align:left">
 1. Open the Unconfined compression test. This window will be displayed.
 
-   ![Alt text](images/1.png)
+![Alt text](images/1.png)
 
-2. Click on description to know the basic definition of the experiment. Click the next button on the right bottom corner to proceed further.
+2.  Click on description to know the basic definition of the experiment. Click the next button on the right bottom corner to proceed further.
 
-   ![Alt text](images/2.1.png)
+    ![Alt text](images/2.1.png)
 
-3. Click on scale to measure diameter and height of the mould.
+3.  Click on scale to measure diameter and height of the mould.
 
-   ![Alt text](images/3.1.png)
+    ![Alt text](images/3.1.png)
 
-4. Calculate the parameters required and enter the values. Click on “Check” to verify answer and "Result" to obtain correct answer.
+4.  Calculate the parameters required and enter the values. Click on “Check” to verify answer and "Result" to obtain correct answer.
 
-   ![Alt text](images/4.1.png)
+    ![Alt text](images/4.1.png)
 
-5. Click on the trowel to add soil to the container.
+5.  Click on the trowel to add soil to the container.
 
-   ![Alt text](images/5.1.png)
+    ![Alt text](images/5.1.png)
 
-6. Now add measured quantity of water using measuring jar. Mix it thoroughly using straight edge.
+6.  Now add measured quantity of water using measuring jar. Mix it thoroughly using straight edge.
 
-   ![Alt text](images/7.1.png)
+    ![Alt text](images/7.1.png)
 
-7. Click on the bottom collar and fix the collar on the bottom of the mould.
+7.  Click on the bottom collar and fix the collar on the bottom of the mould.
 
-   ![Alt text](images/10.1.png)
+    ![Alt text](images/10.1.png)
 
-8. Apply the oil on the inner surface of the mould before filling the soil.
+8.  Apply the oil on the inner surface of the mould before filling the soil.
 
-   ![Alt text](images/9.1.png)
+    ![Alt text](images/9.1.png)
 
-9. Click on the bowl containing soil to fill the mould.
+9.  Click on the bowl containing soil to fill the mould.
 
-   ![Alt text](images/11.1.png)
+    ![Alt text](images/11.1.png)
 
 10. After the mould is filled with soil, click on the top collar to fix it on the top of mould.
 
@@ -97,4 +98,6 @@ These procedure steps are followed on the simulator.
 
 24. Result and inference are displayed.
 
-    ![Alt text](images/33.1.png)
+            ![Alt text](images/33.1.png)
+
+    </div>
