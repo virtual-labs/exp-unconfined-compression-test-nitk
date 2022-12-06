@@ -1,1 +1,1 @@
-## Unconfined compression test
+## Unconfined Compression Test
