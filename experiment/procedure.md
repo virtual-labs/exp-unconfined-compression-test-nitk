@@ -3,14 +3,14 @@ These procedure steps are followed on the simulator.
 
 1. Open the  Unconfined compression test. This window will be displayed.
 
-  ![Alt text](images/1.png)      
+   ![Alt text](images/1.png)      
 
 2. Click on description to know the basic definition of the experiment. Click the next button on the right bottom corner to proceed further.
  ![Alt text](images/2.1.png)
 
 3. Click on scale to measure diameter and height of the mould.
 
-  ![Alt text](images/3.1.png)
+   ![Alt text](images/3.1.png)
 
 4. Calculate the parameters required and enter  the  values. Click on “Check” to verify answer and "Result" to obtain correct answer.
      ![Alt text](images/4.1.png)

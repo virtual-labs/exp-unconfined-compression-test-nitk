@@ -17,7 +17,7 @@ The shear strength parameters are namely:
 1. **Cohesive soil ( C soil)**: Cohesive soils are fine grained, low strength and easily deformable spills which have a tendency for particles to adhere, i.e., The strength property of this type of soil is purely based on the bonding between particles due to electrostatic forces or cementing and is not related to the interlocking of the particles. Therefore in cohesive soils the strength is purely due to cohesion and angle of internal friction will be zero.                            
 <center>
 
-    ![Alt text](images/csoil.png)
+![Alt text](images/csoil.png)
 </center>
 <center>
    Graphical representation of cohesive soil.
@@ -27,7 +27,7 @@ The shear strength parameters are namely:
 2. **Cohesionless soil / Non-cohesive soil (Phi soil):**   Cohesionless soils are any type of free running soils such as sand or gravel. The strength of these types of soils completely depends on the intermolecular friction between the particles and the cohesive force between the particles is zero.
 <center>
 
-    ![Alt text](images/Noncohesive.png)
+![Alt text](images/Noncohesive.png)
 </center>
 
   <center>Graphical representation of cohesionless soil</center>
