@@ -98,6 +98,6 @@ These procedure steps are followed on the simulator.
 
 24. Result and inference are displayed.
 
-            ![Alt text](images/33.1.png)
+  ![Alt text](images/33.1.png)
 
-    </div>
+</div>
