@@ -18,7 +18,8 @@ Graphically, the angle of internal friction for any given soil is the angle of t
 **1. Cohesive soil (C soil)**: Cohesive soils are fine grained, low strength and easily deformable spills which have a tendency for particles to adhere, i.e., The strength property of this type of soil is purely based on the bonding between particles due to electrostatic forces or cementing and is not related to the interlocking of the particles. Therefore in cohesive soils the strength is purely due to cohesion and angle of internal friction will be zero.                            
 <center>
 
-![Alt text](images/csoil.png)
+<img src="images/csoil.png" />
+
 </center>
 <center>
    Graphical representation of cohesive soil.
@@ -29,7 +30,7 @@ Graphically, the angle of internal friction for any given soil is the angle of t
 **2. Cohesionless soil / Non-cohesive soil (Phi soil):**   Cohesionless soils are any type of free running soils such as sand or gravel. The strength of these types of soils completely depends on the intermolecular friction between the particles and the cohesive force between the particles is zero.
 <center>
 
-![Alt text](images/Noncohesive.png)
+<img width="30%" src="images/noncohesive.png" />
 </center>
 
   <center>Graphical representation of cohesionless soil</center>
@@ -41,7 +42,7 @@ Cohesive - friction soil is a type of soil where the soil exhibits both cohesive
 Thus in these kinds of soil, the strength of the soil is due to the combined effect of the intermolecular interlocking, friction and as well as the bonding between the particles.
 <center>
 
-  ![Alt text](images/c-phi.png)
+  <img src="images/c-phi.png" width="30%" />
 </center>
 
 <center>
@@ -54,7 +55,7 @@ Graphical representation of cohesive - friction soil</center>
 Unconfined compression test also known as uniaxial compression test is a procedure  conducted to determine the shear strength of the soil. The unconfined compression test is the most well known strategy for soil shear testing since it is one of the quickest and least expensive methods for calculating shear strength. The cylindrical specimen of soil is subjected to major principal stress &sigma; at constant rate of strain till the specimen fails due to shearing along a critical plane of  failure. Compressive load per unit required to fail the specimen is called Unconfined compressive strength of the soil.
 <center>
 
-   ![Alt text](images/machine.png)
+   <img src="images/machine.png" />
 
 Unconfined compression strength testing apparatus</center>
 

@@ -17,7 +17,7 @@
     <li>Akshaya | NITK</li>
     <li>Anusha B Salian | NITK</li>
     <li>Mahima | NITK</li>
-    <li>Ashika Pai| NITK</li>
+    <li>Ashika Pai | NITK</li>
     </ul></td>
   </tr>
 </table>

@@ -4,7 +4,7 @@
 | :--: | :-- | :-------: |
 |  1   | Dr. Pruthviraj U | NITK |
 
-### Lab Developers (Coding):
+### Lab Developers :
 
 | SNo. | Name | Institute |
 | :--: | :-- | :-------: |
@@ -12,7 +12,7 @@
 |  2   | Akshaya | NITK |
 |  3   | Anusha B Salian | NITK |
 
-### Content Developers (Subject matter):
+### Content Developers :
 
 | SNo. | Name | Institute |
 | :--: | :-- | :-------: |
