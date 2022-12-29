@@ -1,1 +1,1 @@
-## Experiment name
+## Unconfined Compression Test
