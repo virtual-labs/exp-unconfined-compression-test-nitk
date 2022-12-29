@@ -11,8 +11,8 @@
       },
       "explanations": {
         "a": "Cohesion is the shear parameter which deals with the internal bonding of the particles due to electrostatic force or cementing property.",
-        "b": "Shear stress is the combined value obtained by the addition of the two shear parameters",
-        "c": "Strain is defined as the ratio of change of length to initial length and thus cannot be a shear strength parameter",
+        "b": "Shear stress is the combined value obtained by the addition of the two shear parameters.",
+        "c": "Strain is defined as the ratio of change of length to initial length and thus cannot be a shear strength parameter.",
         "d": "Angle of internal friction is the shear strength parameter which deals with the friction and interlocking property of the soil."
       },
       "correctAnswer": "d",
@@ -50,7 +50,7 @@
         "d": "The UCS test is performed to find out the undrained compression strength of the soil as well as to calculate the shear strength and its respective shear parameters."
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
     },
     {
       "question": "Sand is classified as which type of soil",
@@ -61,13 +61,13 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "For sand, cohesion is zero and hence it cannot be classified as C - soil",
+        "a": "For sand, cohesion is zero and hence it cannot be classified as C - soil.",
         "b": "Sand is classified as a Phi - soil as all the strength comes from the friction and interlocking between the particles.",
         "c": "As there is no bonding between the particles cohesion will be zero and hence sand cannot be classified as C - Phi soil",
         "d": "Sand is classified as a Phi - soil as all the strength comes from the friction and interlocking between the particles."
       },
       "correctAnswer": "b",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
     },
     {
       "question": "Which type of soil completely depends on intermolecular friction between soil  and cohesive force is zero.",
@@ -84,8 +84,8 @@
         "d": "In coarse grained soils, various types of soils can be included having different properties and these soils may possess cohesive property or cohesionless property or can also be a combination of the two parameters."
       },
       "correctAnswer": "b",
-      "difficulty": "beginner"
-      
+      "difficulty": "advanced"
+
     }
   ]
 }

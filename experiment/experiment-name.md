@@ -1,1 +1,1 @@
-## Unconfined Compression Test
+## Determination of Uniaxial Compression Strength of soil by unconfined compression test

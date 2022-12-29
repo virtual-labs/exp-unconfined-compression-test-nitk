@@ -36,40 +36,6 @@
       "difficulty": "beginner"
     },
     {
-      "question": "If a cohesive soil is subjected to vertical compressive load, the inclination of crack to the horizontal is",
-      "answers": {
-        "a": "90°",
-        "b": "45°",
-        "c": "63°",
-        "d": "38°"
-      },
-      "explanations": {
-        "a": "According to the formula for the inclination for failure plane with respect to the major principal axis is α = 45 + Ø/2, for cohesive soil we know that angle of internal friction Ø is zero and therefore we get the inclination of failure plane or inclination of crack to the horizontal is 45°, hence 90° is the wrong answer.",
-        "b": "According to the formula for the inclination for failure plane with respect to the major principal axis is α = 45 + Ø/2, for cohesive soil we know that angle of internal friction Ø is zero and therefore we get the inclination of failure plane or inclination of crack to the horizontal is 45°.",
-        "c": "According to the formula for the inclination for failure plane with respect to the major principal axis is α = 45 + Ø/2, for cohesive soil we know that angle of internal friction Ø is zero and therefore we get the inclination of failure plane or inclination of crack to the horizontal is 45°, hence 63° is the wrong answer.",
-        "d": "According to the formula for the inclination for failure plane with respect to the major principal axis is α = 45 + Ø/2, for cohesive soil we know that angle of internal friction Ø is zero and therefore we get the inclination of failure plane or inclination of crack to the horizontal is 45°, hence 38° is the wrong answer."
-      },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "The code book is referred for conducting the unconfined compression test is",
-      "answers": {
-        "a": "IS:2720 (part 1) -1991",
-        "b": "IS:2720 (part 10)-1991",
-        "c": "IS:2720 (part 3) -1991",
-        "d": "IS:2720 (part 5) -1991"
-      },
-      "explanations": {
-        "a": "IS : 2720 (part 1) -1991 covers the method for preparation of soil sample for various soil laboratory tests.",
-        "b": "IS : 2720 (part 10) -1991 is the code book which covers the method for conducting unconfined compression tests in the laboratory.",
-        "c": "IS : 2720 (part 3) -1991, this part deals with the tests conducted for determination specific gravity of soils",
-        "d": "IS : 2720 (part 4) -1991,  this part deals with the grain size analysis of soils."
-      },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-    {
       "question": "Which of the following parameter is used to represent the unconfined compressive strength at failure",
       "answers": {
         "a": "τf",
@@ -85,6 +51,40 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "If a cohesive soil is subjected to vertical compressive load, the inclination of crack to the horizontal is",
+      "answers": {
+        "a": "90&deg;",
+        "b": "45&deg;",
+        "c": "63&deg;",
+        "d": "38&deg;"
+      },
+      "explanations": {
+        "a": "According to the formula for the inclination for failure plane with respect to the major principal axis is α = 45 + Ø/2, for cohesive soil we know that angle of internal friction Ø is zero and therefore we get the inclination of failure plane or inclination of crack to the horizontal is 45&deg;, hence 90&deg; is the wrong answer.",
+        "b": "According to the formula for the inclination for failure plane with respect to the major principal axis is α = 45 + Ø/2, for cohesive soil we know that angle of internal friction Ø is zero and therefore we get the inclination of failure plane or inclination of crack to the horizontal is 45&deg;.",
+        "c": "According to the formula for the inclination for failure plane with respect to the major principal axis is α = 45 + Ø/2, for cohesive soil we know that angle of internal friction Ø is zero and therefore we get the inclination of failure plane or inclination of crack to the horizontal is 45&deg;, hence 63&deg; is the wrong answer.",
+        "d": "According to the formula for the inclination for failure plane with respect to the major principal axis is α = 45 + Ø/2, for cohesive soil we know that angle of internal friction Ø is zero and therefore we get the inclination of failure plane or inclination of crack to the horizontal is 45&deg;, hence 38&deg; is the wrong answer."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The code book is referred for conducting the unconfined compression test is",
+      "answers": {
+        "a": "IS:2720 (part 1) -1991",
+        "b": "IS:2720 (part 10)-1991",
+        "c": "IS:2720 (part 3) -1991",
+        "d": "IS:2720 (part 5) -1991"
+      },
+      "explanations": {
+        "a": "IS : 2720 (part 1) -1991 covers the method for preparation of soil sample for various soil laboratory tests.",
+        "b": "IS : 2720 (part 10) -1991 is the code book which covers the method for conducting unconfined compression tests in the laboratory.",
+        "c": "IS : 2720 (part 3) -1991, this part deals with the tests conducted for determination specific gravity of soils.",
+        "d": "IS : 2720 (part 4) -1991,  this part deals with the grain size analysis of soils."
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
     }
   ]
 }
