@@ -2,7 +2,7 @@
 
 ### Shear strength of soil
 
- Shear strength is the capacity of soil to withstand the external and internal pressure which acts on the soil. The resistance of soil to any deformation is due to the friction and interlocking between the particles and the bonding of particles with each other. These are known as the shear parameter.
+ Shear strength is the capacity of soil to withstand the external and internal pressure which acts on the soil. The resistance of soil to any deformation is due to the friction and interlocking between the particles and the bonding of particles with each other. These are known as the shear parameters.
 
 The shear strength parameters are namely:
 
@@ -18,7 +18,7 @@ Graphically, the angle of internal friction for any given soil is the angle of t
 **1. Cohesive soil (C soil)**: Cohesive soils are fine grained, low strength and easily deformable spills which have a tendency for particles to adhere, i.e., The strength property of this type of soil is purely based on the bonding between particles due to electrostatic forces or cementing and is not related to the interlocking of the particles. Therefore in cohesive soils the strength is purely due to cohesion and angle of internal friction will be zero.                            
 <center>
 
-<img src="images/csoil.png" />
+   <img src="images/csoil.png" />
 
 </center>
 <center>
@@ -30,7 +30,8 @@ Graphically, the angle of internal friction for any given soil is the angle of t
 **2. Cohesionless soil / Non-cohesive soil (Phi soil):**   Cohesionless soils are any type of free running soils such as sand or gravel. The strength of these types of soils completely depends on the intermolecular friction between the particles and the cohesive force between the particles is zero.
 <center>
 
-<img width="30%" src="images/noncohesive.png" />
+   <img  src="images/noncohesive.png" />
+
 </center>
 
   <center>Graphical representation of cohesionless soil</center>
@@ -42,7 +43,8 @@ Cohesive - friction soil is a type of soil where the soil exhibits both cohesive
 Thus in these kinds of soil, the strength of the soil is due to the combined effect of the intermolecular interlocking, friction and as well as the bonding between the particles.
 <center>
 
-  <img src="images/c-phi.png" width="30%" />
+  <img src="images/c-phi.png"  />
+
 </center>
 
 <center>
@@ -52,12 +54,30 @@ Graphical representation of cohesive - friction soil</center>
 </br>
 
 ### Unconfined compression test
-Unconfined compression test also known as uniaxial compression test is a procedure  conducted to determine the shear strength of the soil. The unconfined compression test is the most well known strategy for soil shear testing since it is one of the quickest and least expensive methods for calculating shear strength. The cylindrical specimen of soil is subjected to major principal stress &sigma; at constant rate of strain till the specimen fails due to shearing along a critical plane of  failure. Compressive load per unit required to fail the specimen is called Unconfined compressive strength of the soil.
+Unconfined compression test also known as uniaxial compression test is a procedure  conducted to determine the shear strength of the soil. The unconfined compression test is the most well known strategy for soil shear testing since it is one of the quickest and least expensive methods for calculating shear strength. The cylindrical specimen of soil is subjected to major principal stress 𝝈 at constant rate of strain till the specimen fails due to shearing along a critical plane of  failure. Compressive load per unit required to fail the specimen is called Unconfined compressive strength of the soil.
+
 <center>
 
    <img src="images/machine.png" />
 
 Unconfined compression strength testing apparatus</center>
+
+</br>
+
+### Unconfined Compressive strength
+Unconfined Compressive Strength (UCS) is a measure of the compressive strength of a material, specifically a cohesive soil or rock sample, when subjected to an axial load without any lateral confinement. In simple terms, it represents the maximum compressive stress a material can withstand in an unconfined state.
+</br>
+
+The test to determine the unconfined compressive strength involves applying a compressive force along the vertical axis of a cylindrical sample until failure occurs. The sample is not surrounded or confined by any lateral support during the test. The stress at failure is then used to calculate the unconfined compressive strength.
+</br>
+
+This property is significant in geotechnical engineering and materials science, especially when dealing with soils and weak rocks. It helps assess the load-bearing capacity of these materials and is crucial in designing foundations, slope stability analysis, and other engineering applications. The unconfined compressive strength is generally expressed in units of pressure, such as Pascals (Pa) or pounds per square inch (psi).
+
+</br>
+
+### Application
+The unconfined compressive strength (UCS) test is a vital tool in geotechnical engineering, materials science, and construction, serving various applications. In geotechnical engineering, it aids in soil stability analysis, providing critical insights for foundations and embankments. The data derived from UCS testing is fundamental for designing foundations and estimating the load-bearing capacity of soils, ensuring the safety and stability of structures. In materials science, the test is widely used to study rock mechanics, characterise material strength, and assess deformation behaviour. Construction and infrastructure benefit from UCS data in tunnelling, excavation projects, slope stability analysis, and pavement design. Moreover, the test finds application in mining for ore body and rock strength assessment, contributing to mine planning and design. Beyond practical applications, UCS testing plays a role in research and development, helping improve construction materials and supporting forensic investigations in failure assessments of geotechnical incidents. Overall, the UCS test is a versatile and crucial tool in understanding the mechanical properties of soils and rocks, guiding engineering decisions across a range of disciplines.
+
 
 
 IS code reference: IS : 2720 (part 10) -1991
