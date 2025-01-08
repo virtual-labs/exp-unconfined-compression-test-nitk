@@ -2,38 +2,90 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which is the shear strength parameter which deals with the friction and interlocking behavior of the soil.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Cohesion",
+        "b": "Shear stress",
+        "c": "Strain ",
+        "d": "Angle of Internal friction"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Cohesion is the shear parameter which deals with the internal bonding of the particles due to electrostatic force or cementing property.",
+        "b": "Shear stress is the combined value obtained by the addition of the two shear parameters.",
+        "c": "Strain is defined as the ratio of change of length to initial length and thus cannot be a shear strength parameter.",
+        "d": "Angle of internal friction is the shear strength parameter which deals with the friction and interlocking property of the soil."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In which type of soil the strength is purely due to cohesion and angle of internal  friction will be zero.",
+      "answers": {
+        "a": "Cohesive soil",
+        "b": "Cohesionless soil",
+        "c": "Fine grained soil",
+        "d": "Coarse grained soil"
+      },
+      "explanations": {
+        "a": "As the name itself suggests, the soil is characterised by its cohesive property and these types of soil do not show any interlocking behaviour between the particles.",
+        "b": "As the name suggests, the cohesion parameter in these types of soils are zero and all its strength is from the friction and interlocking of the particles with each other.",
+        "c": "In fine grained soils, various types of soils can be included having different properties and these soils may possess cohesive property or cohesionless property or can also be a combination of the two parameters.",
+        "d": "In coarse grained soils, various types of soils can be included having different properties and these soils may possess cohesive property or cohesionless property or can also be a combination of the two parameters."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Unconfined compression test is conducted to determine",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Shear strength of soil",
+        "b": "Tensile strength of soil",
+        "c": "Compressibility of soil",
+        "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The UCS test is performed to find out the undrained compression strength of the soil as well as to calculate the   shear strength and its respective shear parameters.",
+        "b": "The tensile property of soil cannot be found out using UCS testing.",
+        "c": "The compressibility of the soil is usually found by conducting a confined compression test (CCT) or also called  standard oedometer test.",
+        "d": "The UCS test is performed to find out the undrained compression strength of the soil as well as to calculate the shear strength and its respective shear parameters."
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Sand is classified as which type of soil",
+      "answers": {
+        "a": "C-soil",
+        "b": "Phi-soil",
+        "c": "C-Phi soil",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "For sand, cohesion is zero and hence it cannot be classified as C - soil.",
+        "b": "Sand is classified as a Phi - soil as all the strength comes from the friction and interlocking between the particles.",
+        "c": "As there is no bonding between the particles cohesion will be zero and hence sand cannot be classified as C - Phi soil",
+        "d": "Sand is classified as a Phi - soil as all the strength comes from the friction and interlocking between the particles."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Which type of soil completely depends on intermolecular friction between soil  and cohesive force is zero.",
+      "answers": {
+        "a": "Cohesive soil",
+        "b": "Non cohesive soil",
+        "c": "Fine grained soil",
+        "d": "Coarse grained soil"
+      },
+      "explanations": {
+        "a": "In cohesive soil, the shear strength is due to the cohesion parameter and hence is not the answer.",
+        "b": "In non cohesive soil cohesion is zero and shear strength is purely due to intermolecular friction between the particles.",
+        "c": "In fine grained soils, various types of soils can be included having different properties and these soils may possess cohesive property or cohesionless property or can also be a combination of the two parameters.",
+        "d": "In coarse grained soils, various types of soils can be included having different properties and these soils may possess cohesive property or cohesionless property or can also be a combination of the two parameters."
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+
     }
   ]
 }

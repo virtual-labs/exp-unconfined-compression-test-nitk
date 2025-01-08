@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The unconfined compression test is derived from ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Direct shear test",
+        "b": "Consolidation test",
+        "c": "Triaxial compression tests",
+        "d": "Permeability test"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Unconfined compression strength cannot be found out by conducting a direct shear test.",
+        "b": "Consolidation experiment is conducted to determine the settlement of soil in a confined environment.",
+        "c": "Unconfined compression strength is a type of triaxial compression test where there is no lateral confinement to the sample and thus unconfined compression test can be derived from triaxial compression test.",
+        "d": "Permeability test is conducted to determine the capacity of soil to allow the water to percolate through it."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "Select the incorrect statement",
+      "answers": {
+        "a": "In a direct shear box test , the plane of shear failure is predetermined",
+        "b": "Better control is achieved on the drainage of soil in a triaxial compression test.",
+        "c": "Stress distribution on the failure plane in case of triaxial compression is uniform.",
+        "d": "Unconfined compression tests can be carried out for all types of soil."
+      },
+      "explanations": {
+        "a": "Direct shear test is used to determine the shear strength of soil. The failure does not occur at the weakest plane, it occurs at a predetermined plane where the horizontal plane is separated by two halves of the shear box.",
+        "b": "The test has  control over the drainage condition of soil. The test can be conducted on all three types of drainage conditions.",
+        "c": "In triaxial compression test, the specimen fails at a weak point where failure in the plane is not forced. The stress distribution is uniform.",
+        "d": "Unconfined compression tests are not carried out for all types of soil. It is not applicable  for cohesion less or coarse grained soil."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following parameter is used to represent the unconfined compressive strength at failure",
+      "answers": {
+        "a": "τf",
+        "b": "C",
+        "c": "qu",
+        "d": "Φ"
+      },
+      "explanations": {
+        "a": " τf is the parameter which is used to represent shear stress.",
+        "b": "C is the parameter which is used to represent cohesion.",
+        "c": "qu is the parameter which is used to represent unconfined compressive strength at failure.",
+        "d": "Φ is the parameter which is used to represent the angle of internal friction."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If a cohesive soil is subjected to vertical compressive load, the inclination of crack to the horizontal is",
+      "answers": {
+        "a": "90&deg;",
+        "b": "45&deg;",
+        "c": "63&deg;",
+        "d": "38&deg;"
+      },
+      "explanations": {
+        "a": "According to the formula for the inclination for failure plane with respect to the major principal axis is α = 45 + Ø/2, for cohesive soil we know that angle of internal friction Ø is zero and therefore we get the inclination of failure plane or inclination of crack to the horizontal is 45&deg;, hence 90&deg; is the wrong answer.",
+        "b": "According to the formula for the inclination for failure plane with respect to the major principal axis is α = 45 + Ø/2, for cohesive soil we know that angle of internal friction Ø is zero and therefore we get the inclination of failure plane or inclination of crack to the horizontal is 45&deg;.",
+        "c": "According to the formula for the inclination for failure plane with respect to the major principal axis is α = 45 + Ø/2, for cohesive soil we know that angle of internal friction Ø is zero and therefore we get the inclination of failure plane or inclination of crack to the horizontal is 45&deg;, hence 63&deg; is the wrong answer.",
+        "d": "According to the formula for the inclination for failure plane with respect to the major principal axis is α = 45 + Ø/2, for cohesive soil we know that angle of internal friction Ø is zero and therefore we get the inclination of failure plane or inclination of crack to the horizontal is 45&deg;, hence 38&deg; is the wrong answer."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The code book is referred for conducting the unconfined compression test is",
+      "answers": {
+        "a": "IS:2720 (part 1) -1991",
+        "b": "IS:2720 (part 10)-1991",
+        "c": "IS:2720 (part 3) -1991",
+        "d": "IS:2720 (part 5) -1991"
+      },
+      "explanations": {
+        "a": "IS : 2720 (part 1) -1991 covers the method for preparation of soil sample for various soil laboratory tests.",
+        "b": "IS : 2720 (part 10) -1991 is the code book which covers the method for conducting unconfined compression tests in the laboratory.",
+        "c": "IS : 2720 (part 3) -1991, this part deals with the tests conducted for determination specific gravity of soils.",
+        "d": "IS : 2720 (part 4) -1991,  this part deals with the grain size analysis of soils."
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
     }
   ]
 }
